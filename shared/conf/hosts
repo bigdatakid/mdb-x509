@@ -1,0 +1,5 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.14.151  mdb1.vagrant.dev mdb1
+192.168.14.152  mdb2.vagrant.dev mdb2
+192.168.14.153  mdb3.vagrant.dev mdb3

@@ -1,0 +1,7 @@
+Scripts for executing mdb 3.0.12 upgrade to 3.2.9 and enable x.509 authentication
+
+Files and descriptions ->
+replicaset.js: builds initial replica set on 3.0.12
+setupmdb.sh: used by vagrant to setup environment and install initial 3.0.12 environment
+dataloader.js: simple loader of data which will load data for testing
+build_certs.sh: builds certificates for x509 authentication
